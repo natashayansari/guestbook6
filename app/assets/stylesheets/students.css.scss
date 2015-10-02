@@ -1,0 +1,32 @@
+// Place all the styles related to the Students controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+fieldset {
+	width: 150px;
+	border: 1px solid #C0C0C0;
+	margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+}
+
+legend {
+float: left;
+	font-weight: bold;
+	font-size: 13px;
+	border: none;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.container {
+	padding: 0;
+
+}
+
+th, td {
+	padding-right: 10px;
+	padding-left: 0px;
+}
